@@ -1,0 +1,4 @@
+GNU_INSTALL_ROOT := /usr
+GNU_VERSION := 4.9.2
+GNU_PREFIX := arm-none-eabi
+
