@@ -1,0 +1,5 @@
+r
+loadbin _build/ble_switch_s110_xxaa.hex, 0x16000
+r
+g
+exit
